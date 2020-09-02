@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS 3280 Assignment 4", "CS 3280 Assignment 4\CS 3280 Assignment 4.csproj", "{D0434637-9099-4CAD-81BF-3E9859AED1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0434637-9099-4CAD-81BF-3E9859AED1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0434637-9099-4CAD-81BF-3E9859AED1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0434637-9099-4CAD-81BF-3E9859AED1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0434637-9099-4CAD-81BF-3E9859AED1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C590F9-741C-431F-8701-C68C75EF3F3A}
+	EndGlobalSection
+EndGlobal
